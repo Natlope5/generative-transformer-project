@@ -1,0 +1,5 @@
+{
+    "prompt_style": "baseline",
+    "max_new_tokens": 160,
+    "temperature": 0.7
+}

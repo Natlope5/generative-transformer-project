@@ -1,0 +1,5 @@
+{
+    "prompt_style": "improved",
+    "max_new_tokens": 160,
+    "temperature": 0.7
+}

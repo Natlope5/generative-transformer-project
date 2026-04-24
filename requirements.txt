@@ -1,0 +1,8 @@
+transformers==4.40.0
+datasets==2.19.0
+evaluate==0.4.2
+bert-score==0.3.13
+torch
+accelerate
+safetensors
+sentencepiece
