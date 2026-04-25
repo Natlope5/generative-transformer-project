@@ -2,12 +2,12 @@ dialogue,reference,baseline_summary,improved_summary,baseline_rougeL,improved_ro
 "Sam: Hey, are we still on for the meeting at 3?
 Alex: Yes, but can we move it to 3:30?
 Sam: That works for me.
-Alex: Great, see you then.",Sam and Alex reschedule their meeting from 3:00 to 3:30.,Sam and Alex agree to meet at 3:30 for the meeting.,Answer: Sam and Alex agreed to move their meeting to 3:30.,0.5,0.6666666666666666
+Alex: Great, see you then.",Sam and Alex reschedule their meeting from 3:00 to 3:30.,Sam and Alex agree to postpone the meeting to 3:30.,The meeting is moved to 3:30.,0.6086956521739131,0.4210526315789474
 "Mom: Did you finish your homework?
 Kid: Almost, I have one assignment left.
 Mom: Please finish before dinner.
-Kid: Okay, I will.",A mother reminds her child to finish homework before dinner.,The kid is almost done with their homework and will finish it before dinner.,Possible summary: Kid will finish homework before dinner.,0.25,0.4444444444444445
+Kid: Okay, I will.",A mother reminds her child to finish homework before dinner.,"Possible summary: - The kid is almost done with homework, but has one more assignment to do before dinner. - One assignment is left for the kid to finish before dinner. - The kid will finish homework before dinner.",Possible summary: - Kid finishes homework before dinner.,0.2173913043478261,0.3529411764705882
 "Alice: The deployment failed again.
 Bob: I saw, the database migration script crashed.
 Alice: Can you roll it back and open a ticket?
-Bob: Already rolling back and logging an incident.",Alice and Bob handle a failed deployment by rolling back and opening an incident.,Possible summary: - Alice and Bob encountered a database migration failure and resolved it by rolling back and logging an incident.,The deployment failed and the database migration script crashed.,0.588235294117647,0.17391304347826086
+Bob: Already rolling back and logging an incident.",Alice and Bob handle a failed deployment by rolling back and opening an incident.,Possible summary: - Alice and Bob encountered a database migration failure and Bob rolled back the deployment and reported the incident.,The deployment failed due to a database migration script crash.,0.4117647058823529,0.08333333333333333
